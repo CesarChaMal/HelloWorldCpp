@@ -1,0 +1,14 @@
+pacman -Syu
+pacman -S base-devel gcc vim cmake
+pacman -S development
+
+pacman -Sy pacman
+pacman -Syu
+pacman -Su
+pacman -S mingw64/mingw-w64-x86_64-gcc mingw64/mingw-w64-x86_64-cmake mingw64/mingw-w64-x86_64-gdb mingw64/mingw-w64-x86_64-make
+g++ --version
+
+C:\msys64\mingw64
+C:\msys64\mingw32
+C:\msys32\mingw64
+C:\msys32\mingw32

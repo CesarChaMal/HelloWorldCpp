@@ -1,0 +1,26 @@
+VC_TARGETS
+
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0
+
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v110
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v140
+
+
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+	<PlatformToolset Condition="'$(VisualStudio14)' == '14.0'">v140</PlatformToolset>	
+	<PlatformToolset Condition="'$(VisualStudio11)' == '11.0'">v110</PlatformToolset>	
+
+
+// HelloWorld.cpp
+
+#include "stdafx.h"
+#include <iostrem>
+
+int main()
+{
+    std::cout << "Hello World!\n\r";
+    return 0;
+}
+
+
