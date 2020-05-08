@@ -10,5 +10,3 @@ g++ --version
 
 C:\msys64\mingw64
 C:\msys64\mingw32
-C:\msys32\mingw64
-C:\msys32\mingw32
