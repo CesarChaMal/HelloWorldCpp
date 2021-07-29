@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\IdeaProjects\HelloWorldCpp
+C:\msys64\mingw64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\IdeaProjects\HelloWorldCpp
 -- Configuring done
 CMake Error at CMakeLists.txt:6 (add_executable):
   No SOURCES given to target: main.cpp
