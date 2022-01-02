@@ -5,7 +5,7 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug-MinGW" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW" />
+      <configuration PROFILE_NAME="Debug-MinGW" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW" />
     </configurations>
   </component>
   <component name="ChangeListManager">
@@ -23,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1UfG8k27rzMoxtI3dE9XrkLR61k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,16 +39,16 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/HelloWorld.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/HelloWorld.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -61,24 +64,13 @@
       <workItem from="1617094502678" duration="1072000" />
       <workItem from="1635856020695" duration="38000" />
       <workItem from="1635856163282" duration="16000" />
+      <workItem from="1640863066463" duration="54000" />
+      <workItem from="1640863169065" duration="137000" />
+      <workItem from="1640863349023" duration="98000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617094903415">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1617094903415" />
-    <state x="580" y="204" key="FileChooserDialogImpl" timestamp="1617095139067">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="580" y="204" key="FileChooserDialogImpl/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1617095139067" />
-    <state x="301" y="94" key="SettingsEditor" timestamp="1617095149675">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="301" y="94" key="SettingsEditor/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1617095149675" />
+    <option name="version" value="3" />
   </component>
 </project>
