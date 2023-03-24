@@ -1,7 +1,0 @@
-C:\Users\Cesar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5921.27\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S E:\IdeaProjects\HelloWorldCpp -B E:\IdeaProjects\HelloWorldCpp\cmake-build-debug-mingw
--- Configuring done
-CMake Error at CMakeLists.txt:7 (add_executable):
-  No SOURCES given to target: HelloWorldC++.cpp
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
